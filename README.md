@@ -1,9 +1,7 @@
-# Vikings
+# Solar System GUI
 
-The task was to design UML diagram for a chosen topic. The requirements were as follows:
-  * at least 15 non trivial classes (does not containt any unique methods/fields/properties)
-  * 10 or more occureccences of inheritance/aggregation/composition
-  * comments when it is not obvious
+The project was done for the Introduction to Java programming subject. It is a simple project which is based on the SQLite3 database connection, SWING for the graphical user interface as well as it implements Log4J for debugging purpose.
 
+![image](https://user-images.githubusercontent.com/45394303/122404360-73786b80-cf7f-11eb-9e7f-758c0a24fd9a.png)
 
-![VikingsImproved](https://user-images.githubusercontent.com/45394303/113009289-1a671b80-9178-11eb-89da-c63356a92b13.png)
+![image](https://user-images.githubusercontent.com/45394303/122404460-8a1ec280-cf7f-11eb-857b-f8cc045156d8.png)
